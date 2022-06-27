@@ -1,0 +1,13 @@
+{
+    "azureFunctions.deploySubpath": "target/azure-functions/functionsAPI-1607896689422",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
